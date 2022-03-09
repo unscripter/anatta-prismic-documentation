@@ -13,3 +13,11 @@ sidebar: auto
 
 - Type: `string`
 - Default: `/`
+
+::: tip
+Hello I am a tip
+:::
+
+::: danger
+Hey this is a warning
+:::

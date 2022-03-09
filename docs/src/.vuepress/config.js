@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Prismic Documentation',
+  title: 'Anatta Prismic Documentation',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -68,7 +68,7 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'prismic-adapter',
+            'what-is-prismic-adapter',
           ]
         }
       ],
